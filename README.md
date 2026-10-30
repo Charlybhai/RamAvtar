@@ -9,7 +9,7 @@
 
 ## 🎮 Play the Full Game (Free Download)
 The complete packaged standalone Windows PC build (~845 MB) is available for free on Itch.io:  
-👉 **[Download RamAvtar on Itch.io](https://aarasstudios.itch.io/ramavtar)**
+👉 **[Download RamAvtar on Itch.io](https://unfiltered-charly.itch.io/ramavtar)**
 
 ---
 
