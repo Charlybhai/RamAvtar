@@ -2,8 +2,8 @@
 
 A 3D mythological archery action game built with Unreal Engine 5.8 by Aaras Studios.
 
-[[https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white]](https://unfiltered-charly.itch.io/ramavtar)
-[[https://img.shields.io/badge/YouTube-Devlog_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white]](https://youtu.be/bV3EgkjFINc?si=M3_4YwhI7XZrE4a7)
+![[https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white]](https://unfiltered-charly.itch.io/ramavtar)
+![[https://img.shields.io/badge/YouTube-Devlog_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white]](https://youtu.be/bV3EgkjFINc?si=M3_4YwhI7XZrE4a7)
 
 ## 🎮 Play the Full Game (Free Download)
 The complete packaged standalone Windows PC build (~845 MB) is available for free on Itch.io:  
