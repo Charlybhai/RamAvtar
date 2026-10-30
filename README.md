@@ -14,10 +14,10 @@ The complete packaged standalone Windows PC build (~845 MB) is available for fre
 ---
 
 ## ✨ Key Features & Architecture
-* **Third-Person Archery Combat:** Over-the-shoulder (OTS) dynamic zoom, projectile physics (`BP_Arrow1` & `BP_AgniBaan`), 4-directional dodge rolls, and layered upper-body bone blending (`spine_01`).
+* **Third-Person Archery Combat:** Over-the-shoulder (OTS) dynamic zoom, projectile physics (`BP_Arrow1` & `BP_AgniBaan`), 2-directional dodge rolls, and layered upper-body bone blending (`spine_01`).
 * **Progressive Asura Gauntlet:** `BP_WaveSpawner` managing 4 escalating combat rounds (10 Asura enemies across 3 distinct classes) with a penalty reset loop if the player misses Ravan's glowing navel.
 * **Epic Boss Finale (Ravan Dahan):** 5-point synchronized effigy fire with conch (Shankh) resonance and high-altitude rocket fireworks (`BP_Firework`).
-* **In-Game Healing & Inventory:** BGMI-style collectible health kits stored in inventory and consumed instantly via `H` key (+35 HP).
+* **In-Game Healing & Inventory:** collectible health kits stored in inventory and consumed instantly via `H` key (+35 HP).
 * **Extreme Low-Spec Optimization:** Scalability presets (Low iGPU 65%, Medium 85%, High 100%), capped to run smoothly at 60 FPS on 8 GB RAM laptops with under 5.5 GB total system memory usage.
 
 ---
@@ -26,12 +26,11 @@ The complete packaged standalone Windows PC build (~845 MB) is available for fre
 * **Game Engine:** Unreal Engine 5.8 (Target Platform: Windows PC)
 * **Scripting:** Blueprints Visual Scripting & C++ Fundamentals
 * **VFX & Audio:** Niagara Particle Systems, Audio Synchronization
-* **Video Production:** DaVinci Resolve (43% Audience Retention on YouTube Devlog)
 * **Developer:** Aaras Studios (Solo Indie Project)
 
 ---
 
 ## 📩 Support & Connect
-* **Itch.io Store:** [Aaras Studios](https://aarasstudios.itch.io/)
+* **Itch.io Store:** [Aaras Studios](https://unfiltered-charly.itch.io/ramavtar)
 * **YouTube:** [@UnfilteredCharly](https://youtu.be/bV3EgkjFINc)
 * **Contact:** support.aarasstudios@gmail.com
