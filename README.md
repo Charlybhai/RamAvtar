@@ -23,6 +23,6 @@ The complete packaged standalone Windows PC build (~845 MB) is available for fre
 * **Developer:** Aaras Studios (Solo Indie Project)
 
 ## 📩 Support & Connect
-* **Itch.io Store:** [Charlybhai on Itch.io](https://unfiltered-charly.itch.io/)
+* **Itch.io Store:** [Unfiltered Charly on Itch.io](https://unfiltered-charly.itch.io/)
 * **YouTube:** [@UnfilteredCharly](https://www.youtube.com/@UnfilteredCharly)
 * **Contact:** support.aarasstudios@gmail.com
