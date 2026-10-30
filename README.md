@@ -1,4 +1,4 @@
-# 🏹 RamAvtar: Triumph Over Evil
+# 🏹 RamAvtar
 
 A 3D mythological archery action game built with Unreal Engine 5.8 by Aaras Studios.
 
